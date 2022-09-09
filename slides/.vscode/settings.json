@@ -1,0 +1,6 @@
+{
+    "markdown.marp.themes": [
+        "./themes/bizzsummit.css"
+    ],
+    "markdown.marp.enableHtml": true
+}
